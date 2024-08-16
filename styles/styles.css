@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 .character{
-    background-color: black;
+    background-color: rgb(255, 0, 0);
     position: fixed;
     height: 50px;
     width: 30px;
