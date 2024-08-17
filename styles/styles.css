@@ -7,6 +7,7 @@ body{
     height: 50px;
     width: 30px;
     bottom: 500px;
+    transition: bottom 0.1s, left 0.1s;
 }
 .floor{
     background-color: black;
