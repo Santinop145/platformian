@@ -1,19 +1,4 @@
-body{
-    margin: 0px;
-}
-.character{
-    background-color: rgb(255, 0, 0);
-    position: fixed;
-    height: 50px;
-    width: 30px;
-    bottom: 500px;
-    transition: bottom 0.1s, left 0.1s;
-}
-.floor{
-    background-color: black;
-    position: fixed;
-    margin: 0px;
-    bottom: 0px;
-    width: 100vw;
-    height: 200px;
+canvas{
+    border: 1px solid gray;
+    background-color: white;
 }
